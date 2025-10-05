@@ -109,7 +109,7 @@ button:hover {
 }
 
 /* 🔸 RESPONSIVE SETTINGS 🔸 */
-@media (max-width: 350px) {
+@media (max-width: 360px) {
   .container {
     height: 250px;
   }
