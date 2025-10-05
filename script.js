@@ -48,7 +48,7 @@ noBtn.addEventListener("touchstart",()=>{
 yesBtn.addEventListener("touchstart", ()=>{
     img.src="jin.jpg";
     msg.textContent="";
-    document.getElementById("h4").textContent="Meko To Pata Tha😁🌺";
+    document.getElementById("h4").textContent="I LIKE YOU 2😁🌺";
     yesBtn.style.display="none";
     noBtn.style.display="none";
 
